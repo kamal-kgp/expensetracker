@@ -1,0 +1,67 @@
+<resources>
+    <string name="update_expense">Update Expense</string>
+    <string name="app_name">ExpenseTracker</string>
+
+    <string name="username_hint">Username</string>
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Password</string>
+    <string name="login_button">Login</string>
+    <string name="register_button">Register</string>
+    <string name="go_to_signup">Don\'t have an account? Sign Up</string>
+    <string name="go_to_login">Already have an account? Login</string>
+    <string name="logout">Logout</string>
+    <string name="title_hint">Title (e.g., Lunch, Groceries)</string>
+    <string name="amount_hint">Amount</string>
+    <string name="currency_hint">Currency (e.g., INR)</string>
+    <string name="category_hint">Category</string>
+    <string name="date_hint">Date (YYYY-MM-DD)</string>
+    <string name="save_expense_button">Save Expense</string>
+    <string name="add_expense_fab_description">Add new expense</string>
+    <string name="no_expenses_found">No expenses found.</string>
+    <string name="error_fetching_expenses">Error fetching expenses: %s</string>
+    <string name="filter_expenses">Filter Expenses</string>
+    <string name="search_expenses">Search Expenses</string>
+    <string name="expense_summary">Expense Summary</string>
+    <string name="total_expenses">Total: %s</string>
+    <string name="start_date">Start Date</string>
+    <string name="end_date">End Date</string>
+    <string name="apply_filter">Apply Filter</string>
+    <string name="select_date">Select Date</string>
+    <string name="select_category">Select Category</string>
+    <string name="all_categories">All Categories</string>
+
+    <string name="menu_today">Today</string>
+    <string name="menu_week">This Week</string>
+    <string name="menu_month">This Month</string>
+    <string name="menu_custom_filter">Custom Filter</string>
+    <string name="menu_view_summary">View Summary</string>
+    <string name="delete">Delete</string>
+    <string name="edit">Edit</string>
+
+    <string name="loading">Loading…</string>
+    <string name="error_generic">An unexpected error occurred.</string>
+    <string name="error_network">Network error. Please check your connection.</string>
+    <string name="required_field">This field is required.</string>
+    <string name="invalid_amount">Please enter a valid amount.</string>
+    <string name="confirm_delete_title">Confirm Delete</string>
+    <string name="confirm_delete_message">Are you sure you want to delete this expense?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+
+    <string name="menu_all_expenses">All Expenses</string>
+    <string name="menu_this_week">This Week</string>
+    <string name="menu_this_month">This Month</string>
+    <string name="menu_logout">Logout</string>
+    <string name="menu_summary">Summary</string>
+    <string name="menu_account_section_title">Account</string>
+    <string name="action_save">Save</string>
+    <string name="edit_expense">Edit Expense</string>
+    <string name="delete_expense">Delete Expense</string>
+    <string name="action_edit_expense">Edit</string>
+    <string name="action_delete_expense">Delete</string>
+    <string name="action_filter">Filter</string>
+    <string name="action_refresh">Refresh</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
